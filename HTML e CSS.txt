@@ -1,0 +1,23 @@
+
+
+HTML & CSS
+
+A base de todo desenvolvimento Web é um bom HTML. Mais que aprender tagzinhas, é saber a 
+importância de um código semântico e bem estruturado. Em cima disso, aplicamos o layout 
+CSS que também é muito mais que apenas colocar uma cores e firulas por aí. É muito fácil 
+escrever códigos HTML e CSS ruins. E é muito fácil não dar a atenção devida a esses 
+fundamentos da Web. Mas não é o que recomendamos. Bons estudos!
+
+Links:
+
+https://www.facebook.com/watch/live/?v=1509407892507116&ref=watch_permalink
+
+https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/
+
+https://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/
+
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+https://blog.caelum.com.br/comecando-a-organizar-seu-css/
+
+https://www.facebook.com/watch/live/?v=1286768488104392&ref=watch_permalink
